@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.git
+.env
+.env.local
+.DS_Store
+*.log
+tsconfig.tsbuildinfo
+.claude
+README.md
